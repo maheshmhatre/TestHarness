@@ -1,0 +1,8 @@
+c:\Users\Mahesh\documents\visual studio 2015\Projects\CommTest\Host\bin\Debug\Host.exe.config
+c:\Users\Mahesh\documents\visual studio 2015\Projects\CommTest\Host\bin\Debug\Host.exe
+c:\Users\Mahesh\documents\visual studio 2015\Projects\CommTest\Host\bin\Debug\Host.pdb
+c:\Users\Mahesh\documents\visual studio 2015\Projects\CommTest\Host\obj\Debug\Host.exe
+c:\Users\Mahesh\documents\visual studio 2015\Projects\CommTest\Host\obj\Debug\Host.pdb
+c:\Users\Mahesh\documents\visual studio 2015\Projects\CommTest\Host\bin\Debug\CS-BlockingQueue.exe
+c:\Users\Mahesh\documents\visual studio 2015\Projects\CommTest\Host\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache

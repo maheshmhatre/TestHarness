@@ -1,0 +1,10 @@
+Following are the differences between Project 3 and 4
+
+1. Threadpool was designed manually in project3. In project 4 Task.run is used for the purpose. The approach was practical but it is 
+easy to implement the already available facility.
+
+2. Communication package designed in project 3 was only one package. In project 4 Every package doing
+communication has its own sender receiver and IService available. It was not practical to have one comm package as all of the
+softwares can be present on different computers.
+
+3. Integrating database for Repository was not practical as txt logs serve the purpose and are simple to implement.

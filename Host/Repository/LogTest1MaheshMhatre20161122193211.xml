@@ -1,0 +1,8 @@
+<LogMessage>
+  <TestName>Test1</TestName>
+  <Log>Test one log created</Log>
+</LogMessage>
+<LogMessage>
+  <TestName>Test1</TestName>
+  <Log>Test one log created</Log>
+</LogMessage>

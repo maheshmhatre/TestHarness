@@ -1,0 +1,5 @@
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\HiResTimer\bin\Debug\HiResTimer.dll.config
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\HiResTimer\bin\Debug\HiResTimer.dll
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\HiResTimer\bin\Debug\HiResTimer.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\HiResTimer\obj\Debug\HiResTimer.dll
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\HiResTimer\obj\Debug\HiResTimer.pdb

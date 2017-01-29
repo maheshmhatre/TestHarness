@@ -1,0 +1,14 @@
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\AppDomainManager.exe.config
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\AppDomainManager.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\AppDomainManager.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\Test.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\Test.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\obj\Debug\AppDomainManager.csprojResolveAssemblyReference.cache
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\obj\Debug\AppDomainManager.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\obj\Debug\AppDomainManager.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\TestLib.dll
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\TestLib.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\ResultMessage.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\AppDomainManager\bin\Debug\ResultMessage.pdb

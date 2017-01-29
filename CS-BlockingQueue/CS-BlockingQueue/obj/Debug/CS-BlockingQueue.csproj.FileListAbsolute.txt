@@ -1,0 +1,6 @@
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache

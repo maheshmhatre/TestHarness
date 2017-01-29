@@ -1,0 +1,10 @@
+C:\su\temp\LoadingTests\TestDriver\bin\Debug\TestDriver.pdb
+C:\su\temp\LoadingTests\TestDriver\bin\Debug\CodeToTest.exe
+C:\su\temp\LoadingTests\TestDriver\bin\Debug\TestLib.dll
+C:\su\temp\LoadingTests\TestDriver\bin\Debug\CodeToTest.pdb
+C:\su\temp\LoadingTests\TestDriver\bin\Debug\TestLib.pdb
+C:\su\temp\LoadingTests\TestDriver\obj\Debug\TestDriver.csprojResolveAssemblyReference.cache
+C:\su\temp\LoadingTests\TestDriver\obj\Debug\TestDriver.pdb
+C:\su\temp\LoadingTests\TestDriver\bin\Debug\TestDriver.dll.config
+C:\su\temp\LoadingTests\TestDriver\bin\Debug\TestDriver.dll
+C:\su\temp\LoadingTests\TestDriver\obj\Debug\TestDriver.dll

@@ -1,0 +1,12 @@
+c:\users\mahesh\documents\visual studio 2015\Projects\CommTest\CommTest\bin\Debug\CommTest.exe.config
+c:\users\mahesh\documents\visual studio 2015\Projects\CommTest\CommTest\bin\Debug\CommTest.exe
+c:\users\mahesh\documents\visual studio 2015\Projects\CommTest\CommTest\bin\Debug\CommTest.pdb
+c:\users\mahesh\documents\visual studio 2015\Projects\CommTest\CommTest\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\mahesh\documents\visual studio 2015\Projects\CommTest\CommTest\obj\Debug\CommTest.exe
+c:\users\mahesh\documents\visual studio 2015\Projects\CommTest\CommTest\obj\Debug\CommTest.pdb
+c:\users\mahesh\documents\visual studio 2015\Projects\CommTest\CommTest\bin\Debug\CS-BlockingQueue.exe
+c:\users\mahesh\documents\visual studio 2015\Projects\CommTest\CommTest\bin\Debug\CS-BlockingQueue.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CommTest\bin\Debug\Test.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CommTest\bin\Debug\Test.pdb
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CommTest\bin\Debug\XMLBuilder.exe
+C:\Users\Mahesh\Documents\Visual Studio 2015\Projects\CommTest\CommTest\bin\Debug\XMLBuilder.pdb

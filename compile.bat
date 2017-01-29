@@ -1,0 +1,1 @@
+devenv CommTest.sln /rebuild debug

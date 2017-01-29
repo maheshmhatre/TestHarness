@@ -1,0 +1,5 @@
+C:\su\temp\LoadingTests\CodeToTest\bin\Debug\CodeToTest.pdb
+C:\su\temp\LoadingTests\CodeToTest\obj\Debug\CodeToTest.pdb
+C:\su\temp\LoadingTests\CodeToTest\bin\Debug\CodeToTest.dll.config
+C:\su\temp\LoadingTests\CodeToTest\bin\Debug\CodeToTest.dll
+C:\su\temp\LoadingTests\CodeToTest\obj\Debug\CodeToTest.dll
